@@ -9,3 +9,7 @@ This reseach explores the effects of individuals’ social background on educati
   - Linear Probability Model: Comparing logit coefficients across groups presents rescaling bias since the residuals’ variance is not constant across different samples (Breen et al. 2018)
   - Karlson, Holm, and Breen method: Estimate mediation effects
     
+<img width="494" height="207" alt="Captura de pantalla 2025-08-29 a la(s) 15 21 05" src="https://github.com/user-attachments/assets/6ad9c746-3f57-4c1c-a09a-05009130716e" />
+
+
+
